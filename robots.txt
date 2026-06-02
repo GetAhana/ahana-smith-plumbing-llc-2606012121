@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahana-smith-plumbing-llc-2606012121.netlify.app/sitemap.xml
