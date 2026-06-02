@@ -1,0 +1,18 @@
+{
+  "name": "Smith Plumbing",
+  "short_name": "Smith",
+  "description": "Smith Plumbing—repairs, water heaters, and drains in Phoenix. Licensed, insured, 4.6★ on 38 reviews. Same-day dispatch available.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
