@@ -1,0 +1,21 @@
+/* TEAM */
+Developer & SEO Manager: Ahana Digital
+Contact: info@getahana.com
+Site: https://getahana.com
+Location: Toronto, Ontario, Canada
+
+/* CLIENT */
+Business: Smith Plumbing
+Contact: tom.smith.plumbing.example@gmail.com
+Site: https://ahana-smith-plumbing-llc-2606012121.netlify.app
+Location: Phoenix, AZ
+
+/* SITE */
+Last update: 2026-01-20
+Standards: HTML5, CSS3; accessibility practices targeting WCAG 2.1 AA
+Hosting: Netlify
+Language: en
+
+/* THANKS */
+Built for the tradespeople who keep
+our homes running.
